@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ithotline3
-- 👀 I’m interested in ... Valorant
+- 👀 I’m interested in ... Python and Valorant
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... AI with Python
 - 📫 How to reach me ... call 360-464-MARS
